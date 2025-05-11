@@ -7,6 +7,6 @@ function verificarNombre() {
     if (nombresValidos.includes(nombreIngresado)) {
         window.location.href = "sorpresa.html"; 
     } else {
-        alert("¡Hola! Parece que tu nombre no está registrado para esta sorpresa, igual deseo que pases un gran dia justo a tus seres queridos 💖");
+        alert("¡Hola! Parece que tu nombre no está registrado para esta sorpresa, igual deseo que pases un gran dia junto a tus seres queridos 💖");
     }
 }
